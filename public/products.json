@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 13 Pro",
+    "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._SX679_.jpg",
+    "shortDescription": "6.1-inch display, A15 Bionic chip, 128GB Storage",
+    "price": "$999",
+    "buyLink": "https://www.amazon.com/dp/B09G9FPHY4"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21 Ultra",
+    "image": "https://m.media-amazon.com/images/I/91BGpVJzIML._SX679_.jpg",
+    "shortDescription": "6.8-inch display, 108MP camera, 256GB Storage",
+    "price": "$1,199",
+    "buyLink": "https://www.amazon.com/dp/B08N2MSSZY"
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM4 Headphones",
+    "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._SX679_.jpg",
+    "shortDescription": "Wireless Noise-Canceling Over-Ear Headphones",
+    "price": "$349",
+    "buyLink": "https://www.amazon.com/dp/B0863TXGM3"
+  },
+  {
+    "id": 4,
+    "name": "Apple MacBook Pro 16",
+    "image": "https://m.media-amazon.com/images/I/71L2iBSyyLL._SX679_.jpg",
+    "shortDescription": "16-inch, M1 Pro chip, 512GB Storage, 16GB RAM",
+    "price": "$2,499",
+    "buyLink": "https://www.amazon.com/dp/B09JQK9DK5"
+  },
+  {
+    "id": 5,
+    "name": "Ninja Air Fryer",
+    "image": "https://m.media-amazon.com/images/I/71rn8CHYEL._SX679_.jpg",
+    "shortDescription": "4-quart capacity, 1500-watt, Dishwasher Safe",
+    "price": "$89",
+    "buyLink": "https://www.amazon.com/dp/B07FDJMC9Q"
+  },
+  {
+    "id": 6,
+    "name": "JBL Flip 5 Portable Speaker",
+    "image": "https://m.media-amazon.com/images/I/71rG4IErTIL._SX679_.jpg",
+    "shortDescription": "Waterproof Bluetooth Speaker with 12 Hours of Playtime",
+    "price": "$119",
+    "buyLink": "https://www.amazon.com/dp/B07QK2SPP7"
+  },
+  {
+    "id": 7,
+    "name": "Instant Pot Duo 7-in-1 Electric Cooker",
+    "image": "https://m.media-amazon.com/images/I/61UtaDB4wDL._SX679_.jpg",
+    "shortDescription": "Pressure Cooker, Slow Cooker, Rice Cooker, Steamer",
+    "price": "$99",
+    "buyLink": "https://www.amazon.com/dp/B00FLYWNYQ"
+  },
+  {
+    "id": 8,
+    "name": "Fitbit Charge 5",
+    "image": "https://m.media-amazon.com/images/I/61mKJYb5R5L._SX679_.jpg",
+    "shortDescription": "Health and Fitness Tracker with Built-in GPS",
+    "price": "$129",
+    "buyLink": "https://www.amazon.com/dp/B09BZXV3W9"
+  },
+  {
+    "id": 9,
+    "name": "Kindle Paperwhite (8 GB)",
+    "image": "https://m.media-amazon.com/images/I/61FduB7hbLL._SX679_.jpg",
+    "shortDescription": "Waterproof eReader with Adjustable Warm Light",
+    "price": "$139",
+    "buyLink": "https://www.amazon.com/dp/B08N36XNTT"
+  },
+  {
+    "id": 10,
+    "name": "GoPro HERO9 Black",
+    "image": "https://m.media-amazon.com/images/I/61H8a8Pj+dL._SX679_.jpg",
+    "shortDescription": "5K Ultra HD Action Camera with Front LCD",
+    "price": "$399",
+    "buyLink": "https://www.amazon.com/dp/B08DK5ZH44"
+  },
+  {
+    "id": 11,
+    "name": "Nintendo Switch Console",
+    "image": "https://m.media-amazon.com/images/I/61-PblYntsL._SX679_.jpg",
+    "shortDescription": "Neon Blue and Red Joy-Con with 32GB Console",
+    "price": "$299",
+    "buyLink": "https://www.amazon.com/dp/B07VGRJDFY"
+  },
+  {
+    "id": 12,
+    "name": "Dyson V11 Torque Drive Vacuum",
+    "image": "https://m.media-amazon.com/images/I/71D9ImsvEtL._SX679_.jpg",
+    "shortDescription": "Cordless Stick Vacuum Cleaner, 60 min runtime",
+    "price": "$599",
+    "buyLink": "https://www.amazon.com/dp/B07THZ3FKN"
+  }
+]
